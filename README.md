@@ -2,7 +2,7 @@
 
 ![FiltersES8 homepage image](https://dl.jpeg.io/957c13d1d8882fda629f7569a47976c0/FiltersES8.jpg)
 
-Quick projet made to help a friend with data filtering in ES217+. Maybe it oculd help you too!
+Quick tiny projet made to help a friend with data filtering in ES217+. Maybe it could help you too!
 
 ## Getting Started
 
